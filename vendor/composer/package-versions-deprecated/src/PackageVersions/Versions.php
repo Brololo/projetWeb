@@ -89,7 +89,7 @@ final class Versions
   'symfony/var-exporter' => 'v5.2.1@fbc3507f23d263d75417e09a12d77c009f39676c',
   'nikic/php-parser' => 'v4.10.4@c6d052fc58cb876152f89f532b95a8d7907e7f0e',
   'symfony/maker-bundle' => 'v1.26.1@0f1d3ed2584349dc8700d7908e8a92b3742b1c99',
-  '__root__' => '1.0.0+no-version-set@',
+  '__root__' => 'dev-master@6aa0dd8f5f680f96ecf7e2f4144a99b8c93e3d07',
 );
 
     private function __construct()
